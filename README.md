@@ -157,13 +157,18 @@ CheckVerse was built to go beyond a basic tutorial implementation and explore:
 
 ## 📸 Preview
 
-_Add screenshots here_
+<h3>Home Page:</h3>
+<img width="707" height="743" alt="image" src="https://github.com/user-attachments/assets/66c3f110-ee4b-49cb-a102-171d646602e2" />
 
-Example:
+<h3>Theme toggle button:</h3>
+<img width="702" height="738" alt="image" src="https://github.com/user-attachments/assets/7b3f5794-6a9a-4768-b007-abc8e82fc38e" />
 
-```md
-![CheckVerse Screenshot](./preview.png)
-```
+<h3>Check functionality:</h3>
+<img width="697" height="791" alt="image" src="https://github.com/user-attachments/assets/137fcfe5-a0a3-4fa1-af08-f3c52de7c0f6" />
+
+<h3>Win message:</h3>
+<img width="603" height="740" alt="image" src="https://github.com/user-attachments/assets/cc351cba-d5bf-4c8c-934e-90e7c0cd899d" />
+
 
 ---
 
