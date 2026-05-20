@@ -110,6 +110,8 @@ function ChessBoard() {
         <option value="bw">Black & White</option>
         <option value="gold">Cream & Gold</option>
         <option value="ocean">Ocean Blue</option>
+        <option value="greencream">Light Green & Cream</option>
+        <option value="pink">Pink & White</option>
       </select>
 
       <div className={`board ${theme} ${resetting ? "reset-anim" : ""}`}>
