@@ -183,7 +183,6 @@ Planned upgrades:
 - En passant
 - Pawn promotion
 - Move history ✅
-- Undo / Redo
 - AI opponent
 - Multiplayer mode
 - Sound effects
