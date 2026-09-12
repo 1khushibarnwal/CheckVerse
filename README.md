@@ -194,7 +194,7 @@ Planned upgrades:
 
 Built with React and tactical suffering.
 
-**Khushi Barnwal**
+By: **Khushi Barnwal**
 
 ---
 
